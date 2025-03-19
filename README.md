@@ -1,37 +1,51 @@
-<img align="center" alt="coding" width="1500px" src="https://media.licdn.com/dms/image/D4D16AQFbfReq7qL-Cg/profile-displaybackgroundimage-shrink_350_1400/0/1692822862708?e=1698278400&v=beta&t=-oz_WNZ3MBZRKl2k4ixMHYGZu-SWC1hbt4bcwpjw5K0">
+### 🚀 Subrata Roy | Full Stack Developer  
+🌍 Passionate about **MERN Stack Development** | 🚀 Open to Work | 🎯 Building Scalable Web Applications  
 
-<h1 align="center">Hi 👋, I'm Subrata Roy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+![Header](https://media.licdn.com/dms/image/D4D16AQFbfReq7qL-Cg/profile-displaybackgroundimage-shrink_350_1400/0/1692822862708?e=1698278400&v=beta&t=-oz_WNZ3MBZRKl2k4ixMHYGZu-SWC1hbt4bcwpjw5K0)  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subrata003&label=Profile%20views&color=0e75b6&style=flat" alt="subrata003" /> </p>
+---
 
-- 🌱 I’m currently learning **JAVA , HTML , CSS , JAVASCRIPT**
+### 👋 About Me  
+💡 I am a **Full Stack Developer** specializing in **MERN Stack** (MongoDB, Express.js, React.js, Node.js).  
+🎯 I am always eager to learn and contribute to exciting **open-source projects**.  
+🌱 Currently diving deeper into **backend development, system design, and cloud computing**.  
 
-- public int longestkSubstr(String s, int k) { [// code here](// code here)
+---
 
-- int l=0,r=0,ans=-1; [HashMap<Character,Integer> hm = new HashMap<>();](HashMap<Character,Integer> hm = new HashMap<>();)
+### 🚀 Tech Stack
+#### **Languages & Frameworks:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
-- 💬 Ask me about **WEB-DEVELOPMENT**
+#### **Tools & Technologies:**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=mui&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
-- 📫 How to reach me **subratajpg2003@gmail.com**
+---
 
-- [while(r<s.length()){](while(r<s.length()){)
+### 📊 GitHub Stats  
+![Subrata's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subrata003&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subrata003&layout=compact&theme=tokyonight)  
 
-- ⚡ Fun fact **I am funny**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/subrataroy0064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subrataroy0064" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/subrata-roy-44264a24b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/subrata-roy-44264a24b" height="30" width="40" /></a>
-<a href="https://instagram.com/subrataroy0064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subrataroy0064" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/subratajpg2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/subratajpg2003" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/subratajpjgo/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/subratajpjgo/practice" height="30" width="40" /></a>
-</p>
+### 📬 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/subrata-roy-44264a24b/)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/subrataroy0064)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/codewithsubrata)  
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/subratajpg2003)  
+[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-0F9D58?logo=geeksforgeeks&logoColor=white&style=for-the-badge)](https://auth.geeksforgeeks.org/user/subratajpjgo/practice)  
+📩 Email: subratajpg2003@gmail.com  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subrata003&show_icons=true&locale=en&layout=compact" alt="subrata003" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subrata003&show_icons=true&locale=en" alt="subrata003" /></p>
+⭐ **"Building the Future, One Line of Code at a Time!"** 🚀  
