@@ -1,7 +1,7 @@
 ### 🚀 Subrata Roy | Full Stack Developer  
 🌍 Passionate about **MERN Stack Development** | 🚀 Open to Work | 🎯 Building Scalable Web Applications  
 
-![Header](https://media.licdn.com/dms/image/D4D16AQFbfReq7qL-Cg/profile-displaybackgroundimage-shrink_350_1400/0/1692822862708?e=1698278400&v=beta&t=-oz_WNZ3MBZRKl2k4ixMHYGZu-SWC1hbt4bcwpjw5K0](https://img.freepik.com/free-vector/boy-using-laptop-cartoon-character-sticker_1308-61547.jpg?ga=GA1.1.736934873.1690988837&semt=ais_hybrid)  
+![Header](https://img.freepik.com/free-vector/coding-concept-illustration_114360-1155.jpg?ga=GA1.1.736934873.1690988837&semt=ais_hybrid)  
 
 ---
 
@@ -9,6 +9,8 @@
 💡 I am a **Full Stack Developer** specializing in **MERN Stack** (MongoDB, Express.js, React.js, Node.js).  
 🎯 I am always eager to learn and contribute to exciting **open-source projects**.  
 🌱 Currently diving deeper into **backend development, system design, and cloud computing**.  
+
+⭐ **"Building the Future, One Line of Code at a Time!"** 🚀  
 
 ---
 
@@ -44,8 +46,8 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/codewithsubrata)  
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/subratajpg2003)  
 [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-0F9D58?logo=geeksforgeeks&logoColor=white&style=for-the-badge)](https://auth.geeksforgeeks.org/user/subratajpjgo/practice)  
-📩 Email: subratajpg2003@gmail.com  
+📩 **Email:** subratajpg2003@gmail.com  
 
 ---
 
-⭐ **"Building the Future, One Line of Code at a Time!"** 🚀  
+🔥 **Let's Build Something Amazing Together!** 🚀  
