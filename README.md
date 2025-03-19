@@ -1,7 +1,7 @@
 ### 🚀 Subrata Roy | Full Stack Developer  
 🌍 Passionate about **MERN Stack Development** | 🚀 Open to Work | 🎯 Building Scalable Web Applications  
 
-![Header](https://media.licdn.com/dms/image/D4D16AQFbfReq7qL-Cg/profile-displaybackgroundimage-shrink_350_1400/0/1692822862708?e=1698278400&v=beta&t=-oz_WNZ3MBZRKl2k4ixMHYGZu-SWC1hbt4bcwpjw5K0)  
+![Header](https://media.licdn.com/dms/image/D4D16AQFbfReq7qL-Cg/profile-displaybackgroundimage-shrink_350_1400/0/1692822862708?e=1698278400&v=beta&t=-oz_WNZ3MBZRKl2k4ixMHYGZu-SWC1hbt4bcwpjw5K0](https://img.freepik.com/free-vector/boy-using-laptop-cartoon-character-sticker_1308-61547.jpg?ga=GA1.1.736934873.1690988837&semt=ais_hybrid)  
 
 ---
 
