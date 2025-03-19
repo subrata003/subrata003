@@ -1,16 +1,25 @@
 ### 🚀 Subrata Roy | Full Stack Developer  
 🌍 Passionate about **MERN Stack Development** | 🚀 Open to Work | 🎯 Building Scalable Web Applications  
 
-![Header](https://img.freepik.com/free-vector/coding-concept-illustration_114360-1155.jpg?ga=GA1.1.736934873.1690988837&semt=ais_hybrid)  
-
 ---
 
+<table>
+  <tr>
+    <td>
+    
 ### 👋 About Me  
 💡 I am a **Full Stack Developer** specializing in **MERN Stack** (MongoDB, Express.js, React.js, Node.js).  
 🎯 I am always eager to learn and contribute to exciting **open-source projects**.  
 🌱 Currently diving deeper into **backend development, system design, and cloud computing**.  
 
 ⭐ **"Building the Future, One Line of Code at a Time!"** 🚀  
+
+   </td>
+   <td>
+     <img src="https://img.freepik.com/free-vector/coding-concept-illustration_114360-1155.jpg?ga=GA1.1.736934873.1690988837&semt=ais_hybrid" width="400" alt="Coding Illustration">
+   </td>
+  </tr>
+</table>
 
 ---
 
